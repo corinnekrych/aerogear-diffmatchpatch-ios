@@ -1,12 +1,12 @@
 # DiffMatchPatch for iOS / MacOSX
 The project is a fork of [google-diff-match-patch](https://github.com/JanX2/google-diff-match-patch)
-with modifications to get it to compile for iOS / MacOSX and Xcode 6.0
+with modifications to get it to compile for iOS / MacOSX and Xcode 7.X
 
 The speed test target and schema were removed to save time figuring out some issues but might
 later on.
 
 ## Prerequisites
-This project requires Xcode6.0 to run.
+This project requires Xcode7.2 to run.
 
 ## Building
 
